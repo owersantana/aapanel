@@ -26,7 +26,7 @@ You can know more **[clicking here](https://forum.aapanel.com/d/482-api-interfac
 AAPanel is available via Composer:
 
 ```bash
-"devopssantana/aapanel": "1.0.*"
+"devopssantana/aapanel": "0.0.*"
 ```
 
 or run
