@@ -1,0 +1,29 @@
+{
+    "name": "devopssantana/aapanel",
+    "description": "AApanel Library is a small set of classes developed to communicate with AAPanel",
+    "keywords": [
+      "Agencione",
+      "API",
+      "AAPanel",
+      "Linux"
+    ],
+    "homepage": "https://github.com/devopssantana",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Rogério Santana",
+        "email": "rogeriossilva1@gmail.com",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+      "php": "^7.1.3 || ^8.0",
+      "ext-json": "*",
+      "ext-curl": "*"
+    },
+    "autoload": {
+      "psr-4": {
+        "DevOpsSantana\\AAPanel\\": "src"
+      }
+    }
+  }
